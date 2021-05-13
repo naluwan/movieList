@@ -1,0 +1,5 @@
+#card-mode:hover,
+#list-mode:hover{
+  transform: scale(1.2, 1.2);
+  opacity: 0.5;
+}
